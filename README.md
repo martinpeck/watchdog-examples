@@ -1,6 +1,11 @@
-# File Watcher Examples
+# Watchdog Examples
 
 Some examples of using the package `watchdog` to watch for file system changes.
+
+You can see more information about Watchdog here:
+
+- PyPI: <https://pypi.org/project/watchdog/>
+- Docs: <https://pythonhosted.org/watchdog/>
 
 ## Setup
 
