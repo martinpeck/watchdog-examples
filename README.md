@@ -50,3 +50,14 @@ You can then try creating images within  `test-folder`. #
 - If you create a file with a png or jpg extension you'll see this reported in the console,
 - If you create any other type of file, you won't see anything reported.
 - If you delete or modify an image file, you won't see anything reported.
+
+You'll see output like the following example:
+
+```
+New image detected:
+  src_path  : ./test-folder/foo2.png
+  event_type: created
+New image detected:
+  src_path  : ./test-folder/foo3.png
+  event_type: created
+```
