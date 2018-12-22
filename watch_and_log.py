@@ -5,8 +5,6 @@ import logging
 from watchdog.observers import Observer
 from watchdog.events import LoggingEventHandler
 
-class MyHandler(
-
 if __name__ == "__main__":
 	logging.basicConfig(level=logging.INFO,
 						format="%(asctime)s - %(message)s",
